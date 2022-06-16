@@ -1,0 +1,2036 @@
+<html class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style="" xmlns:wb="http://open.weibo.com/wb"><head><meta class="foundation-mq-small"/><meta class="foundation-mq-small-only"/><meta class="foundation-mq-medium"/><meta class="foundation-mq-medium-only"/><meta class="foundation-mq-large"/><meta class="foundation-mq-large-only"/><meta class="foundation-mq-xlarge"/><meta class="foundation-mq-xlarge-only"/><meta class="foundation-mq-xxlarge"/><meta class="foundation-data-attribute-namespace"/>
+<meta charset="utf-8"/>
+<title>Football Predictions, Statistics, Live Scores, Results and Tips - ScoreBing</title>
+<link href="/favicon.ico" rel="shortcut icon"/>
+<meta content="football, soccer, football prediction, football tips, soccer predictions, football scores, football scores app, football prediction app, football scores iOS, football scores android, scorebing" name="keywords"/> <meta content="ScoreBing offers football predictions, live scores, results and bet tips for all soccer matches, covering all countries, leagues, teams and football clubs." name="description"/> <meta content="1642520177643251156375" property="qc:admins"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1" name="viewport"/>
+<meta content="Football Predictions, Statistics, Live Scores, Results and Tips - ScoreBing" property="og:title"/>
+<meta content="sport" name="og:type"/>
+<meta content="https://www.scorebing.com/assets/images/index/V5indexLogoEn.png" property="og:image" xmlns:og="http://opengraphprotocol.org/schema/"/>
+<meta content="ScoreBing offers football predictions, live scores, results and bet tips for all soccer matches, covering all countries, leagues, teams and football clubs." property="og:description" xmlns:og="http://opengraphprotocol.org/schema/"/>
+<meta content="ScoreBing" property="og:site_name"/>
+<meta content="english" name="language"/>
+<meta content="© 2022 ScoreBing" name="copyright"/>
+<meta content="The Best Football Scores, Predictions and Tips in the World" property="og:title"/>
+<meta content="sport" name="og:type"/>
+<meta content="https://www.scorebing.com/assets/images/index/V5indexLogoEn.png" property="og:image" xmlns:og="http://opengraphprotocol.org/schema/"/>
+<meta content="ScoreBing offers football predictions, live scores, results and bet tips for all soccer matches, covering all countries, leagues, teams and football clubs." property="og:description" xmlns:og="http://opengraphprotocol.org/schema/"/>
+<meta content="ScoreBing" property="og:site_name"/>
+<meta content="238416036653371" name="fb:page_id"/>
+<meta name="twitter:card" value="summary"/>
+<meta name="twitter:site:id" value="885017906785996801"/>
+<meta content="© 2017 ScoreBing" name="copyright"/>
+<link href="/assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="/assets/css/app.min.css?_=269" rel="stylesheet"/>
+<script src="https://partner.googleadservices.com/gampad/cookie.js?domain=www.scorebing.com&amp;callback=_gfp_s_&amp;client=ca-pub-4947910428207445&amp;gpid_exp=1"></script><script id="google_shimpl" src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202206080101/show_ads_impl_fy2019.js?bust=31067971"></script><script async="" data-callback="put-your-callback-macro-here" data-target="" id="CleverCoreLoader42426" src="//scripts.cleverwebserver.com/7a0c35c6874df37d89972c5ec84856e3.js" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/assets/vendor/modernizr/modernizr.js"></script>
+<script src="/assets/js/jquery.min.js" type="text/javascript"></script>
+<script src="/assets/js/en_signup.js?_id=16" type="text/javascript"></script>
+<script src="/assets/js/jquery.validate.min.js" type="text/javascript"></script>
+<script>
+        var DS_domain_config = {
+            'is_live_domain': 0,
+            'cookie_domain': '.scorebing.com',
+            'root_domain': '//www.scorebing.com'        };
+    </script>
+<script src="/assets/js/comment.js?_=31" type="text/javascript"></script> <script>
+        (
+            function(i,s,o,g,r,a,m) {
+                i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            }
+        )(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-102413573-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+<script>var is_en = 1;</script>
+<meta content="f295905cd1eff2ed30979a429504cb6b" name="baidu_ssp_verify"/>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "pub-4947910428207445",
+    enable_page_level_ads: true
+    });
+    </script>
+<style></style><style type="text/css">.body-margin{margin-right:12px;}</style><style type="text/css">.body-margin{margin-right:12px;}</style><meta class="foundation-mq-topbar"/><script src="https://ui.cleverwebserver.com/" type="text/javascript"></script><meta content="AzoawhTRDevLR66Y6MROu167EDncFPBvcKOaQispTo9ouEt5LvcBjnRFqiAByRT+2cDHG1Yj4dXwpLeIhc98/gIAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" http-equiv="origin-trial"/><meta content="A6+nc62kbJgC46ypOwRsNW6RkDn2x7tgRh0wp7jb3DtFF7oEhu1hhm4rdZHZ6zXvnKZLlYcBlQUImC4d3kKihAcAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" http-equiv="origin-trial"/><meta content="A/9La288e7MDEU2ifusFnMg1C2Ij6uoa/Z/ylwJIXSsWfK37oESIPbxbt4IU86OGqDEPnNVruUiMjfKo65H/CQwAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" http-equiv="origin-trial"/><link as="script" href="https://adservice.google.com.br/adsid/integrator.js?domain=www.scorebing.com" rel="preload"/><script src="https://adservice.google.com.br/adsid/integrator.js?domain=www.scorebing.com" type="text/javascript"></script><link as="script" href="https://adservice.google.com/adsid/integrator.js?domain=www.scorebing.com" rel="preload"/><script src="https://adservice.google.com/adsid/integrator.js?domain=www.scorebing.com" type="text/javascript"></script></head>
+<body class="vEn"><div class="clever_42426_pushdown" id="clever_42426_pushdown" style="position: relative !important; display: block !important; overflow: hidden !important; box-sizing: unset !important; top: 0px !important; transition: margin 0ms ease 0s, height 0ms ease 0s, opacity 0ms ease 0s, padding 0ms ease 0s !important; z-index: 10 !important; text-align: left !important; flex: 0 0 auto !important;height:321px;"><div class="clever_42426_info_pushdown" id="clever_42426_info_pushdown" style="width: 150px !important; height: 30px !important; color: rgb(255, 255, 255) !important; padding: 0px !important; box-sizing: unset !important; top: 5px !important; left: 5px !important; font-size: 9px !important; position: relative !important; z-index: 20 !important; text-shadow: rgb(0, 0, 0) -1px -1px 0px, rgb(0, 0, 0) 1px -1px 0px, rgb(0, 0, 0) -1px 1px 0px, rgb(0, 0, 0) 1px 1px 0px !important; margin-bottom: -40px !important;font-family:verdana !important;"><a href="https://cleveradvertising.com/" style="color: #fff!important; text-decoration: none!important; height: 15px!important" target="_blank"><img height="15" id="clever_42426_logoclever" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA4FpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpjMjBmNGNiNi1kMmRmLTQ3ZWItYmQ2NC02MTM2OWY1YTUxNjYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6N0IzMEY0N0ExQjExMTFFODlDRUQ5RDgzNzdGOTY0QUYiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6N0IzMEY0NzkxQjExMTFFODlDRUQ5RDgzNzdGOTY0QUYiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6YzIwZjRjYjYtZDJkZi00N2ViLWJkNjQtNjEzNjlmNWE1MTY2IiBzdFJlZjpkb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NzdjMzE1MGItNTlmMy1lMDQzLTkxMzktZTY2MTA4YjIwZGVmIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+b2df8AAAAYNJREFUeNqclDFLA0EQhfc2UVFQUKIWIqRQ8CeI2IhdLESwttPCwsLG2tLONkpQiHU6RSWlqD8ghaQRIpIUQUGC6Ek838qcjpPZQ33wwe3MzrvZvd0Loigy0AQYByGw4B1cg7b5VgBmQErEnbrBPaimKZADG+CFGW6Cc1Y0D3Y9hj3gCGwb1yHIRZ0qUy7mJErW2udqWUFFTHgDQ5QbBM8JZvXYx7K2C2IZbjsW6Hkd9Bq/Dr+eWIcZ0BZvPqbcMsiDHXCndDgZ+xixTyUxMaTl8jk1MeeK561ofV+Mu8ASGy/S8eLK/xiJt6dAQ3RwyvJFkWuBfu4hDQ3tE9crsJRrilxB1muGU8qmT4OsEp+V9WnlCNyAS7pmsVZAS8yrgouOaqVDx6rytUMR29JqA/o5SA2AOujzHGR318dAQyasp+AJlBJuxplmlmSonUmuPV/Ct+RYtyArYk0wSsv+U4dOB0qs6DP7TYcZOhrD7kCAR/rR1v5r6DQHRsjwAZSTJn8IMACtOGnRPeYLcAAAAABJRU5ErkJggg==" style="height: 15px!important; float: none!important; width: auto!important; display: inline-block!important;"/></a></div><img id="clever_42426_pushdown_img" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="width: 100% !important; height: 100% !important; z-index: 15 !important; top: 0px !important; left: 0px !important; cursor: pointer !important; border: medium none !important; background-color: transparent !important; box-shadow: none !important; position: relative !important; margin: 0px !important;padding:0 !important;"/><div id="clever_42426_pushdown_close" style="width: 120px !important; height: 30px !important; line-height: 15px !important; z-index: 2147483646 !important; bottom: 50px !important; left: 20px !important; cursor: pointer !important; position: relative !important; box-shadow: none !important; box-sizing: unset !important; color: rgb(0, 0, 0) !important; background: rgba(255, 255, 255, 0.3) none repeat scroll 0% 0%; border: 1px solid rgb(0, 0, 0) !important; font-size: 11px !important; padding: 5px 12px !important; font-weight: normal !important; margin: 6px 12px 6px 0px !important; text-decoration: none !important; min-width: 120px !important; text-align: center !important; font-family: verdana !important; border-radius: 15px !important;display:inline-block !important;">Fechar Pub</div><iframe class="clever_42426_push_frame" frameborder="0" id="clever_42426_push_frame" name="clever-core-ads" scrolling="no" seamless="seamless" src="https://sender.clevernt.com/transporter/42426.php?ppuc=1&amp;ppu=0&amp;id=478599&amp;ref=aHR0cHM6Ly93d3cuc2NvcmViaW5nLmNvbS8%3D&amp;ruri=&amp;r=897726048&amp;tok=33419711310201791433&amp;cmpId=&amp;iv=-1&amp;ctr=BR&amp;sz=955&amp;wn=null&amp;res=1280x955&amp;landing=1&amp;hei=286&amp;ts=0.415" style="width: 100% !important; height: 100% !important; background-color: rgb(255, 255, 255) !important; top: 0px !important; left: 0px !important; cursor: pointer !important; border: medium none !important; box-sizing: unset !important; z-index: -1 !important; position: absolute !important; margin: 0px auto !important;display:block !important;"></iframe></div>
+<div class="wrapperV2">
+<nav class="topNavBar" id="topBar">
+<div class="row">
+<div class="small-12 columns">
+<div class="topNavBarInner">
+<dl class="sub-nav topNav">
+<dd class="active">
+<a class="logo" href="//www.scorebing.com/" style="padding:14px 0 10px 0;"><img alt="ScoreBing" src="/assets/images/index/V5indexLogoEn.png?_=6" style="height:36px;"/></a>
+</dd>
+<dd class="active"><a href="//www.scorebing.com/">Home</a></dd> <dd><a href="//lv.scorebing.com">Live Matches</a></dd>
+<dd><a href="//lv.scorebing.com/corner">Corners</a></dd>
+<dd><a href="//www.scorebing.com/fixtures">Fixtures</a></dd>
+<dd><a href="//www.scorebing.com/data">Leagues</a></dd>
+<dd><a href="//www.scorebing.com/teams">Teams</a></dd>
+<dd><a href="//www.scorebing.com/app">APP</a></dd>
+<dd><a href="//www.scorebing.com/widgets">Widgets</a></dd> </dl>
+<div class="topBarRight">
+<ul>
+<input id="root_domain" style="display: none;" type="text" value="//www.scorebing.com"/>
+<li><a class="loginPopupBt">Log in</a></li>
+<div aria-hidden="true" aria-labelledby="modalTitle" class="reveal-modal radius medium" data-options="close_on_background_click:false;close_on_esc:false;" data-reveal="" id="loginPopup" role="dialog">
+<div class="popupError" style="display: none;"><i aria-hidden="true" class="fa fa-exclamation-circle"></i> 登录后方可操作</div>
+<div class="loginPopup">
+<ul class="loginPopupTab">
+<li class="active"><a class="loginPopupLoginBt">Log in</a></li>
+<li class=""><a class="loginPopupSignupBt">Sign up</a></li>
+</ul>
+<div class="loginPopupLogin">
+<div class="row">
+<div class="small-12 medium-7 columns">
+<div class="login-content">
+<div class="errorBox MBTitle" id="login_error_msg" style="display: none"><img src="/assets/images/icons/errorIcon.png"/><span></span></div>
+<form id="header_login_form" novalidate="novalidate">
+<div class="row">
+<div class="small-12 columns">
+<input class="radius" id="zhanghu" minlength="2" name="zhanghu" placeholder="Email / Username" required="" type="text"/>
+</div>
+</div>
+<div class="row">
+<div class="small-12 columns">
+<input class="radius" id="password" name="password" placeholder="Password" required="" type="password"/>
+</div>
+</div>
+<div class="row">
+<div class="small-4 columns">
+<input class="radius" id="captcha_input" minlength="5" name="captcha_input" placeholder="Code" required="" type="text"/>
+</div>
+<div class="small-8 columns PL0">
+<noscript><img id="img_captcha" src="/captcha"/></noscript><img class="loginCode" id="img_captcha" src="/captcha?rnd=0.8425509355592694"/><a class="button radius loginCodeRefresh" href="javascript: void(0);" id="refresh_captcha"><i aria-hidden="true" class="fa fa-refresh"></i></a>
+</div>
+</div>
+<div class="row">
+<div class="small-12 columns">
+<label><input checked="" id="rememberMe" name="rememberMe" type="checkbox"/> Remember me</label>
+</div>
+</div>
+<div class="row">
+<div class="small-12 columns">
+<input class="button expand secondary radius" type="submit" value="Log in"/>
+</div>
+</div>
+<div class="row">
+<div class="small-12 columns text-right">
+<a class="loginForgotLink" href="//www.scorebing.com/user/forgot_pass" rel="nofollow">Forgot Password?</a>
+</div>
+</div>
+</form>
+</div>
+</div>
+<div class="small-12 medium-5 columns text-center">
+<div class="signUpSocial">
+<h2 style="letter-spacing: normal;">Log in with the 3rd Parties</h2>
+<div class="oauthLinkWrapper">
+<a class="oauthLink MT-3" href="//www.scorebing.com/oauth/facebook"><img alt="Login with Facebook" src="/assets/images/icons/socialFBLogin.png" width="100%"/></a>
+</div>
+<p class="loginLinks">
+                            Not a member yet? <a class="handleSignupBt">Sign up Now!</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="loginPopupSignup" style="display: none;">
+<div class="row">
+<div class="small-12 medium-7 columns">
+<div class="login-content">
+<div class="signupMailForm">
+<div class="errorBox MBTitle" id="signupMail_error_msg" style="display: none"><span></span><img src="/assets/images/icons/errorIcon.png"/></div>
+<form id="signupEmailForm" novalidate="novalidate">
+<div class="row">
+<div class="small-12 columns">
+<input class="radius" id="input_m_un" name="m_un" placeholder="Username" type="text"/>
+</div>
+</div>
+<div class="row">
+<div class="small-12 columns">
+<input class="radius" id="input_email" name="email" placeholder="Email" type="email"/>
+</div>
+</div>
+<div class="row">
+<div class="small-12 columns">
+<input class="radius" id="m_pwd" name="m_pwd" placeholder="Password" type="password"/>
+</div>
+</div>
+<div class="row">
+<div class="small-12 columns">
+<input class="radius" id="m_pwd_confirm" name="m_pwd_confirm" placeholder="Confirm Password" type="password"/>
+</div>
+</div>
+<div class="row">
+<div class="small-4 columns">
+<input class="radius" id="mailreg_captcha_input" minlength="5" name="mailreg_captcha_input" placeholder="code" required="" type="text"/>
+</div>
+<div class="small-8 columns PL0">
+<noscript><img id="mailreg_img_captcha" src="/captcha"/></noscript><img class="loginCode" id="mailreg_img_captcha" src="/captcha?rnd=0.8425509355592694"/><a class="button radius loginCodeRefresh" href="javascript: void(0);" id="refresh_mailreg_captcha"><i aria-hidden="true" class="fa fa-refresh"></i></a>
+</div>
+</div>
+<div class="row">
+<div class="small-12 columns">
+<label><input checked="" id="m_agree_tos" name="m_agree_tos" type="checkbox"/> I have read and agree with the <a class="aluminum-color" href="//www.scorebing.com/duty" rel="nofollow" target="_blank">Privacy Policy and Terms of Use.</a></label>
+</div>
+</div>
+<div class="row">
+<div class="small-12 columns">
+<input class="button expand secondary radius" type="submit" value="Register"/>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="small-12 medium-5 columns text-center">
+<div class="signUpSocial">
+<h2 style="letter-spacing: normal;">Log in with the 3rd Parties</h2>
+<div class="oauthLinkWrapper">
+<a class="oauthLink MT-3" href="//www.scorebing.com/oauth/facebook"><img alt="Login with Facebook" src="/assets/images/icons/socialFBLogin.png" width="100%"/></a>
+</div>
+<p class="loginLinks">
+                            Already a member? <a class="handleLoginBt">Log in Now!</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a aria-label="Close" class="close-reveal-modal">×</a>
+</div> <li><a class="signupPopupBt">Sign up</a></li>
+<li class="dsHasDropdown" id="" style="">
+<a aria-controls="timeZoneDropdown" aria-expanded="false" data-dropdown="timeZoneDropdown" data-options="is_hover:true; hover_timeout:100; align:bottom;"><i class="fa fa-globe"></i> <span id="current_tz">America/Recife</span> <i class="fa fa-angle-down"></i></a>
+<ul aria-hidden="true" class="f-dropdown topNavBarDropdown timeZoomDropdown" data-dropdown-content="" id="timeZoneDropdown" tabindex="-1"><li style="margin:6px 10px 2px 10px;"><a data-tz="America/Recife">America/Recife</a></li><li style="margin:2px 10px;"><a data-tz="Pacific/Midway">(GMT-11:00) Midway Island</a></li><li style="margin:2px 10px;"><a data-tz="Pacific/Samoa">(GMT-11:00) Samoa</a></li><li style="margin:2px 10px;"><a data-tz="US/Hawaii">(GMT-10:00) Hawaii</a></li><li style="margin:2px 10px;"><a data-tz="US/Alaska">(GMT-09:00) Alaska</a></li><li style="margin:2px 10px;"><a data-tz="US/Pacific">(GMT-08:00) Pacific Time (US &amp; Canada)</a></li><li style="margin:2px 10px;"><a data-tz="America/Tijuana">(GMT-08:00) Tijuana</a></li><li style="margin:2px 10px;"><a data-tz="US/Arizona">(GMT-07:00) Arizona</a></li><li style="margin:2px 10px;"><a data-tz="US/Mountain">(GMT-07:00) Mountain Time (US &amp; Canada)</a></li><li style="margin:2px 10px;"><a data-tz="America/Mexico_City">(GMT-06:00) Mexico City</a></li><li style="margin:2px 10px;"><a data-tz="US/Central">(GMT-06:00) Central Time (US &amp; Canada)</a></li><li style="margin:2px 10px;"><a data-tz="US/Eastern">(GMT-05:00) Eastern Time (US &amp; Canada)</a></li><li style="margin:2px 10px;"><a data-tz="US/East-Indiana">(GMT-05:00) Indiana (East)</a></li><li style="margin:2px 10px;"><a data-tz="America/Caracas">(GMT-04:30) Caracas</a></li><li style="margin:2px 10px;"><a data-tz="Canada/Atlantic">(GMT-04:00) Atlantic Time (Canada)</a></li><li style="margin:2px 10px;"><a data-tz="America/Santiago">(GMT-04:00) Santiago</a></li><li style="margin:2px 10px;"><a data-tz="Canada/Newfoundland">(GMT-03:30) Newfoundland</a></li><li style="margin:2px 10px;"><a data-tz="America/Godthab">(GMT-03:00) Greenland</a></li><li style="margin:2px 10px;"><a data-tz="Atlantic/Stanley">(GMT-02:00) Stanley</a></li><li style="margin:2px 10px;"><a data-tz="Atlantic/Azores">(GMT-01:00) Azores</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Dublin">(GMT) Dublin</a></li><li style="margin:2px 10px;"><a data-tz="Europe/London">(GMT) London</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Amsterdam">(GMT+01:00) Amsterdam</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Belgrade">(GMT+01:00) Belgrade</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Berlin">(GMT+01:00) Berlin</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Brussels">(GMT+01:00) Brussels</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Madrid">(GMT+01:00) Madrid</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Paris">(GMT+01:00) Paris</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Rome">(GMT+01:00) Rome</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Stockholm">(GMT+01:00) Stockholm</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Vienna">(GMT+01:00) Vienna</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Warsaw">(GMT+01:00) Warsaw</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Athens">(GMT+02:00) Athens</a></li><li style="margin:2px 10px;"><a data-tz="Africa/Cairo">(GMT+02:00) Cairo</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Helsinki">(GMT+02:00) Helsinki</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Istanbul">(GMT+02:00) Istanbul</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Jerusalem">(GMT+02:00) Jerusalem</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Baghdad">(GMT+03:00) Baghdad</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Kuwait">(GMT+03:00) Kuwait</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Tehran">(GMT+03:30) Tehran</a></li><li style="margin:2px 10px;"><a data-tz="Europe/Moscow">(GMT+04:00) Moscow</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Kabul">(GMT+04:30) Kabul</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Karachi">(GMT+05:00) Karachi</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Kolkata">(GMT+05:30) Kolkata</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Kathmandu">(GMT+05:45) Kathmandu</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Yekaterinburg">(GMT+06:00) Ekaterinburg</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Bangkok">(GMT+07:00) Bangkok</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Shanghai">(GMT+08:00) Shanghai</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Chongqing">(GMT+08:00) Chongqing</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Hong_Kong">(GMT+08:00) Hong Kong</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Taipei">(GMT+08:00) Taipei</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Irkutsk">(GMT+09:00) Irkutsk</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Seoul">(GMT+09:00) Seoul</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Tokyo">(GMT+09:00) Tokyo</a></li><li style="margin:2px 10px;"><a data-tz="Australia/Darwin">(GMT+09:30) Darwin</a></li><li style="margin:2px 10px;"><a data-tz="Australia/Melbourne">(GMT+10:00) Melbourne</a></li><li style="margin:2px 10px;"><a data-tz="Pacific/Port_Moresby">(GMT+10:00) Port Moresby</a></li><li style="margin:2px 10px;"><a data-tz="Australia/Sydney">(GMT+10:00) Sydney</a></li><li style="margin:2px 10px;"><a data-tz="Asia/Vladivostok">(GMT+11:00) Vladivostok</a></li><li style="margin:2px 10px;"><a data-tz="Pacific/Fiji">(GMT+12:00) Fiji</a></li></ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<!-- main start -->
+<main class="main">
+<div class="indexV6">
+<div class="row">
+<div class="small-3 columns">
+<div class="panelList2">
+<div class="panel">
+<div class="panel-heading">League Today</div>
+<div class="panel-body">
+<ul class="panelList2Item1 MBBlock">
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/14.png"/></span><a class="panelList2Item1Name" href="/league/35">Barclays Premier League</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/23.png"/></span><a class="panelList2Item1Name" href="/league/36">Spain Primera Liga</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/22.png"/></span><a class="panelList2Item1Name" href="/league/37">Italy Serie A</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/5.png"/></span><a class="panelList2Item1Name" href="/league/38">Germany Bundesliga I</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/31.png"/></span><a class="panelList2Item1Name" href="/league/39">France Ligue 1</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/4.png"/></span><a class="panelList2Item1Name" href="/league/117">UEFA Champions League</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/4.png"/></span><a class="panelList2Item1Name" href="/league/128">UEFA Europa League</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/25.png"/></span><a class="panelList2Item1Name" href="/league/40">Holland Eredivisie</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/47.png"/></span><a class="panelList2Item1Name" href="/league/251">Campeonato Brasileiro</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/32.png"/></span><a class="panelList2Item1Name" href="/league/654">Argentina Primera Division</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/98.png"/></span><a class="panelList2Item1Name" href="/league/451">Croatia 1.HNL</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/12.png"/></span><a class="panelList2Item1Name" href="/league/8">Russia Premier League</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/45.png"/></span><a class="panelList2Item1Name" href="/league/108">Portugal Primeira Liga</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/26.png"/></span><a class="panelList2Item1Name" href="/league/158">Turkey Super Lig</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/54.png"/></span><a class="panelList2Item1Name" href="/league/783">Cameroon Elite One</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/6.png"/></span><a class="panelList2Item1Name" href="/league/1296">USA - NASL</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/97.png"/></span><a class="panelList2Item1Name" href="/league/151">Israel Premier League</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/13.png"/></span><a class="panelList2Item1Name" href="/league/105">Greece Super League</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/30.png"/></span><a class="panelList2Item1Name" href="/league/204">Romania Liga I</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/52.png"/></span><a class="panelList2Item1Name" href="/league/1036">Uruguay Clausura</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/29.png"/></span><a class="panelList2Item1Name" href="/league/106">Switzerland Super League</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/49.png"/></span><a class="panelList2Item1Name" href="/league/2405">Mexico Primera A Apertura</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/42.png"/></span><a class="panelList2Item1Name" href="/league/1211">Nigeria Premier League</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/101.png"/></span><a class="panelList2Item1Name" href="/league/331">Sweden Superettan</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/100.png"/></span><a class="panelList2Item1Name" href="/league/201">League of Ireland Premier Division</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/40.png"/></span><a class="panelList2Item1Name" href="/league/1795">Bulgaria First League</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/24.png"/></span><a class="panelList2Item1Name" href="/league/182">Scotland Premiership</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/20.png"/></span><a class="panelList2Item1Name" href="/league/244">Poland I Liga</a></li>
+<li><span class="panelList2Item1Icon"><img src="https://s.besget.com/country/s/113.png"/></span><a class="panelList2Item1Name" href="/league/2307">Chile Apertura/Clausura</a></li>
+</ul>
+<p class="text-center MBTitle"><a href="/data">View All Leagues &gt;</a></p>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">Tables</div>
+<div class="panel-body">
+<div class="indexTablesTabs">
+<ul class="tabs" data-tab="" role="tablist">
+<li class="tab-title active" role="presentation"><a aria-controls="panel2-1" aria-selected="true" href="#panel2-1" role="tab" tabindex="0"><img src="/assets/images/index/V5Section-2-img-2.png"/></a></li>
+<li class="tab-title" role="presentation"><a aria-controls="panel2-2" aria-selected="false" href="#panel2-2" role="tab" tabindex="0"><img src="/assets/images/index/V5Section-2-img-3.png"/></a></li>
+<li class="tab-title" role="presentation"><a aria-controls="panel2-3" aria-selected="false" href="#panel2-3" role="tab" tabindex="0"><img src="/assets/images/index/V5Section-2-img-10.png"/></a></li>
+<li class="tab-title" role="presentation"><a aria-controls="panel2-4" aria-selected="false" href="#panel2-4" role="tab" tabindex="0"><img src="/assets/images/index/V5Section-2-img-4.png"/></a></li>
+<li class="tab-title" role="presentation"><a aria-controls="panel2-4" aria-selected="false" href="#panel2-5" role="tab" tabindex="0"><img src="/assets/images/index/V5Section-2-img-6.png"/></a></li>
+</ul>
+<div class="tabs-content">
+<section aria-hidden="false" class="content active" id="panel2-1" role="tabpanel">
+<table class="indexTablesTabsConTable">
+<caption>
+                                  Barclays Premier League
+                                </caption>
+<thead>
+<tr>
+<th class="text-center" width="22">Po</th>
+<th>Team</th>
+<th width="26">P</th>
+<th width="60">W/D/L</th>
+<th width="26">Pts.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="be_show_0">
+<td class="text-center">1</td>
+<td><a href="/team/151">Man City</a></td>
+<td>38</td>
+<td>29/6/3</td>
+<td>93</td>
+</tr>
+<tr class="be_show_0">
+<td class="text-center">2</td>
+<td><a href="/team/460">Liverpool</a></td>
+<td>38</td>
+<td>28/8/2</td>
+<td>92</td>
+</tr>
+<tr class="be_show_0">
+<td class="text-center">3</td>
+<td><a href="/team/6465">Chelsea</a></td>
+<td>38</td>
+<td>21/11/6</td>
+<td>74</td>
+</tr>
+<tr class="be_show_0">
+<td class="text-center">4</td>
+<td><a href="/team/6459">Tottenham</a></td>
+<td>38</td>
+<td>22/5/11</td>
+<td>71</td>
+</tr>
+<tr class="be_show_0">
+<td class="text-center">5</td>
+<td><a href="/team/6493">Arsenal</a></td>
+<td>38</td>
+<td>22/3/13</td>
+<td>69</td>
+</tr>
+<tr class="be_show_0">
+<td class="text-center">6</td>
+<td><a href="/team/6664">Man Utd</a></td>
+<td>38</td>
+<td>16/10/12</td>
+<td>58</td>
+</tr>
+<tr class="be_show_0">
+<td class="text-center">7</td>
+<td><a href="/team/6111">West Ham</a></td>
+<td>38</td>
+<td>16/8/14</td>
+<td>56</td>
+</tr>
+<tr class="be_show_0">
+<td class="text-center">8</td>
+<td><a href="/team/748">Leicester</a></td>
+<td>38</td>
+<td>14/10/14</td>
+<td>52</td>
+</tr>
+<tr class="be_show_0">
+<td class="text-center">9</td>
+<td><a href="/team/5778">Brighton</a></td>
+<td>38</td>
+<td>12/15/11</td>
+<td>51</td>
+</tr>
+<tr class="be_show_0">
+<td class="text-center">10</td>
+<td><a href="/team/6039">Wolverhampton</a></td>
+<td>38</td>
+<td>15/6/17</td>
+<td>51</td>
+</tr>
+<tr class="be_hide_0" style="display:none;">
+<td class="text-center">11</td>
+<td><a href="/team/149">Newcastle</a></td>
+<td>38</td>
+<td>13/10/15</td>
+<td>49</td>
+</tr>
+<tr class="be_hide_0" style="display:none;">
+<td class="text-center">12</td>
+<td><a href="/team/6325">Crystal Palace</a></td>
+<td>38</td>
+<td>11/15/12</td>
+<td>48</td>
+</tr>
+<tr class="be_hide_0" style="display:none;">
+<td class="text-center">13</td>
+<td><a href="/team/6384">Brentford</a></td>
+<td>38</td>
+<td>13/7/18</td>
+<td>46</td>
+</tr>
+<tr class="be_hide_0" style="display:none;">
+<td class="text-center">14</td>
+<td><a href="/team/6387">Aston Villa</a></td>
+<td>38</td>
+<td>13/6/19</td>
+<td>45</td>
+</tr>
+<tr class="be_hide_0" style="display:none;">
+<td class="text-center">15</td>
+<td><a href="/team/6267">Southampton</a></td>
+<td>38</td>
+<td>9/13/16</td>
+<td>40</td>
+</tr>
+<tr class="be_hide_0" style="display:none;">
+<td class="text-center">16</td>
+<td><a href="/team/459">Everton</a></td>
+<td>38</td>
+<td>11/6/21</td>
+<td>39</td>
+</tr>
+<tr class="be_hide_0" style="display:none;">
+<td class="text-center">17</td>
+<td><a href="/team/6185">Leeds</a></td>
+<td>38</td>
+<td>9/11/18</td>
+<td>38</td>
+</tr>
+<tr class="be_hide_0" style="display:none;">
+<td class="text-center">18</td>
+<td><a href="/team/6546">Burnley</a></td>
+<td>38</td>
+<td>7/14/17</td>
+<td>35</td>
+</tr>
+<tr class="be_hide_0" style="display:none;">
+<td class="text-center">19</td>
+<td><a href="/team/5933">Watford</a></td>
+<td>38</td>
+<td>6/5/27</td>
+<td>23</td>
+</tr>
+<tr class="be_hide_0" style="display:none;">
+<td class="text-center">20</td>
+<td><a href="/team/6274">Norwich</a></td>
+<td>38</td>
+<td>5/7/26</td>
+<td>22</td>
+</tr>
+</tbody>
+</table>
+<div class="row">
+<div class="small-6 columns"><a class="be_hide_0" onclick="$('.be_show_0').show();$('.be_hide_0').hide();" style="display:none;">&lt; pre</a></div>
+<div class="small-6 columns text-right"><a class="be_show_0" onclick="$('.be_show_0').hide();$('.be_hide_0').show();">next &gt;</a></div>
+</div>
+</section>
+<section aria-hidden="false" class="content" id="panel2-2" role="tabpanel">
+<table class="indexTablesTabsConTable">
+<caption>
+                                  Spain Primera Liga
+                                </caption>
+<thead>
+<tr>
+<th class="text-center" width="22">Po</th>
+<th>Team</th>
+<th width="26">P</th>
+<th width="60">W/D/L</th>
+<th width="26">Pts.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="be_show_1">
+<td class="text-center">1</td>
+<td><a href="/team/6729">Real Madrid</a></td>
+<td>38</td>
+<td>26/8/4</td>
+<td>86</td>
+</tr>
+<tr class="be_show_1">
+<td class="text-center">2</td>
+<td><a href="/team/6503">Barcelona</a></td>
+<td>38</td>
+<td>21/10/7</td>
+<td>73</td>
+</tr>
+<tr class="be_show_1">
+<td class="text-center">3</td>
+<td><a href="/team/6684">Atletico Madrid</a></td>
+<td>38</td>
+<td>21/8/9</td>
+<td>71</td>
+</tr>
+<tr class="be_show_1">
+<td class="text-center">4</td>
+<td><a href="/team/984">Sevilla</a></td>
+<td>38</td>
+<td>18/16/4</td>
+<td>70</td>
+</tr>
+<tr class="be_show_1">
+<td class="text-center">5</td>
+<td><a href="/team/6390">Real Betis</a></td>
+<td>38</td>
+<td>19/8/11</td>
+<td>65</td>
+</tr>
+<tr class="be_show_1">
+<td class="text-center">6</td>
+<td><a href="/team/6471">Real Sociedad</a></td>
+<td>38</td>
+<td>17/11/10</td>
+<td>62</td>
+</tr>
+<tr class="be_show_1">
+<td class="text-center">7</td>
+<td><a href="/team/6848">Villarreal</a></td>
+<td>38</td>
+<td>16/11/11</td>
+<td>59</td>
+</tr>
+<tr class="be_show_1">
+<td class="text-center">8</td>
+<td><a href="/team/6467">Athletic Bilbao</a></td>
+<td>38</td>
+<td>14/13/11</td>
+<td>55</td>
+</tr>
+<tr class="be_show_1">
+<td class="text-center">9</td>
+<td><a href="/team/934">Valencia</a></td>
+<td>38</td>
+<td>11/15/12</td>
+<td>48</td>
+</tr>
+<tr class="be_show_1">
+<td class="text-center">10</td>
+<td><a href="/team/6961">Osasuna</a></td>
+<td>38</td>
+<td>12/11/15</td>
+<td>47</td>
+</tr>
+<tr class="be_hide_1" style="display:none;">
+<td class="text-center">11</td>
+<td><a href="/team/1014">Celta Vigo</a></td>
+<td>38</td>
+<td>12/10/16</td>
+<td>46</td>
+</tr>
+<tr class="be_hide_1" style="display:none;">
+<td class="text-center">12</td>
+<td><a href="/team/6685">Rayo Vallecano</a></td>
+<td>38</td>
+<td>11/9/18</td>
+<td>42</td>
+</tr>
+<tr class="be_hide_1" style="display:none;">
+<td class="text-center">13</td>
+<td><a href="/team/6457">Elche</a></td>
+<td>38</td>
+<td>11/9/18</td>
+<td>42</td>
+</tr>
+<tr class="be_hide_1" style="display:none;">
+<td class="text-center">14</td>
+<td><a href="/team/6831">Espanyol</a></td>
+<td>38</td>
+<td>10/12/16</td>
+<td>42</td>
+</tr>
+<tr class="be_hide_1" style="display:none;">
+<td class="text-center">15</td>
+<td><a href="/team/6693">Getafe</a></td>
+<td>38</td>
+<td>8/15/15</td>
+<td>39</td>
+</tr>
+<tr class="be_hide_1" style="display:none;">
+<td class="text-center">16</td>
+<td><a href="/team/947">Mallorca</a></td>
+<td>38</td>
+<td>10/9/19</td>
+<td>39</td>
+</tr>
+<tr class="be_hide_1" style="display:none;">
+<td class="text-center">17</td>
+<td><a href="/team/3085">Cadiz</a></td>
+<td>38</td>
+<td>8/15/15</td>
+<td>39</td>
+</tr>
+<tr class="be_hide_1" style="display:none;">
+<td class="text-center">18</td>
+<td><a href="/team/1027">Granada</a></td>
+<td>38</td>
+<td>8/14/16</td>
+<td>38</td>
+</tr>
+<tr class="be_hide_1" style="display:none;">
+<td class="text-center">19</td>
+<td><a href="/team/6869">Levante</a></td>
+<td>38</td>
+<td>8/11/19</td>
+<td>35</td>
+</tr>
+<tr class="be_hide_1" style="display:none;">
+<td class="text-center">20</td>
+<td><a href="/team/4699">CD Alaves</a></td>
+<td>38</td>
+<td>8/7/23</td>
+<td>31</td>
+</tr>
+</tbody>
+</table>
+<div class="row">
+<div class="small-6 columns"><a class="be_hide_1" onclick="$('.be_show_1').show();$('.be_hide_1').hide();" style="display:none;">&lt; pre</a></div>
+<div class="small-6 columns text-right"><a class="be_show_1" onclick="$('.be_show_1').hide();$('.be_hide_1').show();">next &gt;</a></div>
+</div>
+</section>
+<section aria-hidden="false" class="content" id="panel2-3" role="tabpanel">
+<table class="indexTablesTabsConTable">
+<caption>
+                                  Italy Serie A
+                                </caption>
+<thead>
+<tr>
+<th class="text-center" width="22">Po</th>
+<th>Team</th>
+<th width="26">P</th>
+<th width="60">W/D/L</th>
+<th width="26">Pts.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="be_show_2">
+<td class="text-center">1</td>
+<td><a href="/team/6350">AC Milan</a></td>
+<td>38</td>
+<td>26/8/4</td>
+<td>86</td>
+</tr>
+<tr class="be_show_2">
+<td class="text-center">2</td>
+<td><a href="/team/6730">Inter Milan</a></td>
+<td>38</td>
+<td>25/9/4</td>
+<td>84</td>
+</tr>
+<tr class="be_show_2">
+<td class="text-center">3</td>
+<td><a href="/team/1015">Napoli</a></td>
+<td>38</td>
+<td>24/7/7</td>
+<td>79</td>
+</tr>
+<tr class="be_show_2">
+<td class="text-center">4</td>
+<td><a href="/team/178">Juventus</a></td>
+<td>38</td>
+<td>20/10/8</td>
+<td>70</td>
+</tr>
+<tr class="be_show_2">
+<td class="text-center">5</td>
+<td><a href="/team/6565">Lazio</a></td>
+<td>38</td>
+<td>18/10/10</td>
+<td>64</td>
+</tr>
+<tr class="be_show_2">
+<td class="text-center">6</td>
+<td><a href="/team/168">Roma</a></td>
+<td>38</td>
+<td>18/9/11</td>
+<td>63</td>
+</tr>
+<tr class="be_show_2">
+<td class="text-center">7</td>
+<td><a href="/team/6289">Fiorentina</a></td>
+<td>38</td>
+<td>19/5/14</td>
+<td>62</td>
+</tr>
+<tr class="be_show_2">
+<td class="text-center">8</td>
+<td><a href="/team/7011">Atalanta</a></td>
+<td>38</td>
+<td>16/11/11</td>
+<td>59</td>
+</tr>
+<tr class="be_show_2">
+<td class="text-center">9</td>
+<td><a href="/team/165">Verona</a></td>
+<td>38</td>
+<td>14/11/13</td>
+<td>53</td>
+</tr>
+<tr class="be_show_2">
+<td class="text-center">10</td>
+<td><a href="/team/173">Torino</a></td>
+<td>38</td>
+<td>13/11/14</td>
+<td>50</td>
+</tr>
+<tr class="be_hide_2" style="display:none;">
+<td class="text-center">11</td>
+<td><a href="/team/169">Sassuolo</a></td>
+<td>38</td>
+<td>13/11/14</td>
+<td>50</td>
+</tr>
+<tr class="be_hide_2" style="display:none;">
+<td class="text-center">12</td>
+<td><a href="/team/6513">Udinese</a></td>
+<td>38</td>
+<td>11/14/13</td>
+<td>47</td>
+</tr>
+<tr class="be_hide_2" style="display:none;">
+<td class="text-center">13</td>
+<td><a href="/team/171">Bologna</a></td>
+<td>38</td>
+<td>12/10/16</td>
+<td>46</td>
+</tr>
+<tr class="be_hide_2" style="display:none;">
+<td class="text-center">14</td>
+<td><a href="/team/388">Empoli</a></td>
+<td>38</td>
+<td>10/11/17</td>
+<td>41</td>
+</tr>
+<tr class="be_hide_2" style="display:none;">
+<td class="text-center">15</td>
+<td><a href="/team/7070">Sampdoria</a></td>
+<td>38</td>
+<td>10/6/22</td>
+<td>36</td>
+</tr>
+<tr class="be_hide_2" style="display:none;">
+<td class="text-center">16</td>
+<td><a href="/team/393">Spezia</a></td>
+<td>38</td>
+<td>10/6/22</td>
+<td>36</td>
+</tr>
+<tr class="be_hide_2" style="display:none;">
+<td class="text-center">17</td>
+<td><a href="/team/7039">Salernitana</a></td>
+<td>38</td>
+<td>7/10/21</td>
+<td>31</td>
+</tr>
+<tr class="be_hide_2" style="display:none;">
+<td class="text-center">18</td>
+<td><a href="/team/6683">Cagliari</a></td>
+<td>38</td>
+<td>6/12/20</td>
+<td>30</td>
+</tr>
+<tr class="be_hide_2" style="display:none;">
+<td class="text-center">19</td>
+<td><a href="/team/6682">Genoa</a></td>
+<td>38</td>
+<td>4/16/18</td>
+<td>28</td>
+</tr>
+<tr class="be_hide_2" style="display:none;">
+<td class="text-center">20</td>
+<td><a href="/team/7381">Venezia</a></td>
+<td>38</td>
+<td>6/9/23</td>
+<td>27</td>
+</tr>
+</tbody>
+</table>
+<div class="row">
+<div class="small-6 columns"><a class="be_hide_2" onclick="$('.be_show_2').show();$('.be_hide_2').hide();" style="display:none;">&lt; pre</a></div>
+<div class="small-6 columns text-right"><a class="be_show_2" onclick="$('.be_show_2').hide();$('.be_hide_2').show();">next &gt;</a></div>
+</div>
+</section>
+<section aria-hidden="false" class="content" id="panel2-4" role="tabpanel">
+<table class="indexTablesTabsConTable">
+<caption>
+                                  Germany Bundesliga I
+                                </caption>
+<thead>
+<tr>
+<th class="text-center" width="22">Po</th>
+<th>Team</th>
+<th width="26">P</th>
+<th width="60">W/D/L</th>
+<th width="26">Pts.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="be_show_3">
+<td class="text-center">1</td>
+<td><a href="/team/613">Bayern Munich</a></td>
+<td>34</td>
+<td>24/5/5</td>
+<td>77</td>
+</tr>
+<tr class="be_show_3">
+<td class="text-center">2</td>
+<td><a href="/team/725">Borussia Dortmund</a></td>
+<td>34</td>
+<td>22/3/9</td>
+<td>69</td>
+</tr>
+<tr class="be_show_3">
+<td class="text-center">3</td>
+<td><a href="/team/481">Bayer Leverkusen</a></td>
+<td>34</td>
+<td>19/7/8</td>
+<td>64</td>
+</tr>
+<tr class="be_show_3">
+<td class="text-center">4</td>
+<td><a href="/team/5934">RB Leipzig</a></td>
+<td>34</td>
+<td>17/7/10</td>
+<td>58</td>
+</tr>
+<tr class="be_show_3">
+<td class="text-center">5</td>
+<td><a href="/team/5500">Union Berlin</a></td>
+<td>34</td>
+<td>16/9/9</td>
+<td>57</td>
+</tr>
+<tr class="be_show_3">
+<td class="text-center">6</td>
+<td><a href="/team/182">SC Freiburg</a></td>
+<td>34</td>
+<td>15/10/9</td>
+<td>55</td>
+</tr>
+<tr class="be_show_3">
+<td class="text-center">7</td>
+<td><a href="/team/6356">Cologne</a></td>
+<td>34</td>
+<td>14/10/10</td>
+<td>52</td>
+</tr>
+<tr class="be_show_3">
+<td class="text-center">8</td>
+<td><a href="/team/180">Mainz</a></td>
+<td>34</td>
+<td>13/7/14</td>
+<td>46</td>
+</tr>
+<tr class="be_show_3">
+<td class="text-center">9</td>
+<td><a href="/team/477">TSG Hoffenheim</a></td>
+<td>34</td>
+<td>13/7/14</td>
+<td>46</td>
+</tr>
+<tr class="be_show_3">
+<td class="text-center">10</td>
+<td><a href="/team/5886">Borussia M'gladb..</a></td>
+<td>34</td>
+<td>12/9/13</td>
+<td>45</td>
+</tr>
+<tr class="be_hide_3" style="display:none;">
+<td class="text-center">11</td>
+<td><a href="/team/6382">Eintracht Frankf..</a></td>
+<td>34</td>
+<td>10/12/12</td>
+<td>42</td>
+</tr>
+<tr class="be_hide_3" style="display:none;">
+<td class="text-center">12</td>
+<td><a href="/team/479">Wolfsburg</a></td>
+<td>34</td>
+<td>12/6/16</td>
+<td>42</td>
+</tr>
+<tr class="be_hide_3" style="display:none;">
+<td class="text-center">13</td>
+<td><a href="/team/5958">Bochum</a></td>
+<td>34</td>
+<td>12/6/16</td>
+<td>42</td>
+</tr>
+<tr class="be_hide_3" style="display:none;">
+<td class="text-center">14</td>
+<td><a href="/team/476">Augsburg</a></td>
+<td>34</td>
+<td>10/8/16</td>
+<td>38</td>
+</tr>
+<tr class="be_hide_3" style="display:none;">
+<td class="text-center">15</td>
+<td><a href="/team/6328">VfB Stuttgart</a></td>
+<td>34</td>
+<td>7/12/15</td>
+<td>33</td>
+</tr>
+<tr class="be_hide_3" style="display:none;">
+<td class="text-center">16</td>
+<td><a href="/team/5920">Hertha Berlin</a></td>
+<td>34</td>
+<td>9/6/19</td>
+<td>33</td>
+</tr>
+<tr class="be_hide_3" style="display:none;">
+<td class="text-center">17</td>
+<td><a href="/team/5755">Arminia Bielefeld</a></td>
+<td>34</td>
+<td>5/13/16</td>
+<td>28</td>
+</tr>
+<tr class="be_hide_3" style="display:none;">
+<td class="text-center">18</td>
+<td><a href="/team/5488">Greuther Furth</a></td>
+<td>34</td>
+<td>3/9/22</td>
+<td>18</td>
+</tr>
+</tbody>
+</table>
+<div class="row">
+<div class="small-6 columns"><a class="be_hide_3" onclick="$('.be_show_3').show();$('.be_hide_3').hide();" style="display:none;">&lt; pre</a></div>
+<div class="small-6 columns text-right"><a class="be_show_3" onclick="$('.be_show_3').hide();$('.be_hide_3').show();">next &gt;</a></div>
+</div>
+</section>
+<section aria-hidden="false" class="content" id="panel2-5" role="tabpanel">
+<table class="indexTablesTabsConTable">
+<caption>
+                                  France Ligue 1
+                                </caption>
+<thead>
+<tr>
+<th class="text-center" width="22">Po</th>
+<th>Team</th>
+<th width="26">P</th>
+<th width="60">W/D/L</th>
+<th width="26">Pts.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="be_show_4">
+<td class="text-center">1</td>
+<td><a href="/team/5924">PSG</a></td>
+<td>38</td>
+<td>26/8/4</td>
+<td>86</td>
+</tr>
+<tr class="be_show_4">
+<td class="text-center">2</td>
+<td><a href="/team/6527">Marseille</a></td>
+<td>38</td>
+<td>21/8/9</td>
+<td>71</td>
+</tr>
+<tr class="be_show_4">
+<td class="text-center">3</td>
+<td><a href="/team/1055">Monaco</a></td>
+<td>38</td>
+<td>20/9/9</td>
+<td>69</td>
+</tr>
+<tr class="be_show_4">
+<td class="text-center">4</td>
+<td><a href="/team/1058">Rennes</a></td>
+<td>38</td>
+<td>20/6/12</td>
+<td>66</td>
+</tr>
+<tr class="be_show_4">
+<td class="text-center">5</td>
+<td><a href="/team/6432">Nice</a></td>
+<td>38</td>
+<td>20/7/11</td>
+<td>66</td>
+</tr>
+<tr class="be_show_4">
+<td class="text-center">6</td>
+<td><a href="/team/2341">Strasbourg</a></td>
+<td>38</td>
+<td>17/12/9</td>
+<td>63</td>
+</tr>
+<tr class="be_show_4">
+<td class="text-center">7</td>
+<td><a href="/team/5926">Lens</a></td>
+<td>38</td>
+<td>17/11/10</td>
+<td>62</td>
+</tr>
+<tr class="be_show_4">
+<td class="text-center">8</td>
+<td><a href="/team/5794">Lyon</a></td>
+<td>38</td>
+<td>17/11/10</td>
+<td>61</td>
+</tr>
+<tr class="be_show_4">
+<td class="text-center">9</td>
+<td><a href="/team/1064">Nantes</a></td>
+<td>38</td>
+<td>15/10/13</td>
+<td>55</td>
+</tr>
+<tr class="be_show_4">
+<td class="text-center">10</td>
+<td><a href="/team/499">Lille</a></td>
+<td>38</td>
+<td>14/13/11</td>
+<td>55</td>
+</tr>
+<tr class="be_hide_4" style="display:none;">
+<td class="text-center">11</td>
+<td><a href="/team/1098">Brest</a></td>
+<td>38</td>
+<td>13/9/16</td>
+<td>48</td>
+</tr>
+<tr class="be_hide_4" style="display:none;">
+<td class="text-center">12</td>
+<td><a href="/team/721">Reims</a></td>
+<td>38</td>
+<td>11/13/14</td>
+<td>46</td>
+</tr>
+<tr class="be_hide_4" style="display:none;">
+<td class="text-center">13</td>
+<td><a href="/team/1054">Montpellier</a></td>
+<td>38</td>
+<td>12/7/19</td>
+<td>43</td>
+</tr>
+<tr class="be_hide_4" style="display:none;">
+<td class="text-center">14</td>
+<td><a href="/team/6206">Angers</a></td>
+<td>38</td>
+<td>10/11/17</td>
+<td>41</td>
+</tr>
+<tr class="be_hide_4" style="display:none;">
+<td class="text-center">15</td>
+<td><a href="/team/1112">Troyes</a></td>
+<td>38</td>
+<td>9/11/18</td>
+<td>38</td>
+</tr>
+<tr class="be_hide_4" style="display:none;">
+<td class="text-center">16</td>
+<td><a href="/team/1065">Lorient</a></td>
+<td>38</td>
+<td>8/12/18</td>
+<td>36</td>
+</tr>
+<tr class="be_hide_4" style="display:none;">
+<td class="text-center">17</td>
+<td><a href="/team/6091">Clermont Foot</a></td>
+<td>38</td>
+<td>9/9/20</td>
+<td>36</td>
+</tr>
+<tr class="be_hide_4" style="display:none;">
+<td class="text-center">18</td>
+<td><a href="/team/6322">St Etienne</a></td>
+<td>38</td>
+<td>7/11/20</td>
+<td>32</td>
+</tr>
+<tr class="be_hide_4" style="display:none;">
+<td class="text-center">19</td>
+<td><a href="/team/1106">Metz</a></td>
+<td>38</td>
+<td>6/13/19</td>
+<td>31</td>
+</tr>
+<tr class="be_hide_4" style="display:none;">
+<td class="text-center">20</td>
+<td><a href="/team/6292">Bordeaux</a></td>
+<td>38</td>
+<td>6/13/19</td>
+<td>31</td>
+</tr>
+</tbody>
+</table>
+<div class="row">
+<div class="small-6 columns"><a class="be_hide_4" onclick="$('.be_show_4').show();$('.be_hide_4').hide();" style="display:none;">&lt; pre</a></div>
+<div class="small-6 columns text-right"><a class="be_show_4" onclick="$('.be_show_4').hide();$('.be_hide_4').show();">next &gt;</a></div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">Popular Leagues</div>
+<div class="panel-body">
+<dl class="panelList2Item2 MBBlock">
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/4.png"/></span><span class="panelList2Item2Name">International</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/190">World Cup</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/117">UEFA Champions League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/128">UEFA Europa League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/403">CAF Champions League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/192">AFC Champions League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/1680">International Friendly</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/14.png"/></span><span class="panelList2Item2Name">England</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/35">Barclays Premier League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/42">England Championship</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/430">England League 1</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/460">England League 2</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/1293">England National League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/1294">England National League North</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/1295">England National League South</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/184">FA Cup</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/23.png"/></span><span class="panelList2Item2Name">Spain</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/36">Spain Primera Liga</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/155">Spain Segunda</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/758">Spain Segunda B Group 1</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/757">Spain Segunda B Group 2</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/759">Spain Segunda B Group 3</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/760">Spain Segunda B Group 4</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/804">Spain Copa del Rey</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/5.png"/></span><span class="panelList2Item2Name">Germany</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/38">Germany Bundesliga I</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/649">Germany Bundesliga II</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/632">Germany 3.Liga</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/5.png"/></span><span class="panelList2Item2Name">France</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/39">France Ligue 1</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/187">France Ligue 2</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/354">France National</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/904">France Cup</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/22.png"/></span><span class="panelList2Item2Name">Italy</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/37">Italy Serie A</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/157">Italy Serie B</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/692">Coppa Italia</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/25.png"/></span><span class="panelList2Item2Name">Holland</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/40">Holland Eredivisie</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/1810">Holland Eerste Divisie</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/1805">Holland Tweede Divisie</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/851">Holland Cup</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/24.png"/></span><span class="panelList2Item2Name">Scotland</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/182">Scotland Premiership</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/189">Scotland Championship</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/687">Scotland League One</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/688">Scotland League Two</a></dd>
+</dl>
+<p class="text-center MBTitle"><a href="/data">View All Leagues &gt;</a></p>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">Other Leagues</div>
+<div class="panel-body">
+<dl class="panelList2Item2 MBBlock">
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/32.png"/></span><span class="panelList2Item2Name">Argentina</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/654">Argentina Primera Division</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/222">Argentina Nacional B</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/606">Argentina Cup</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/7.png"/></span><span class="panelList2Item2Name">Australia</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/3">Australia A-League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/726">Australia Victoria Premier League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/2439">Australia NPL Queensland</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/47.png"/></span><span class="panelList2Item2Name">Brazil</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/1575">Brazil Primeira Liga</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/2040">Brazil Paraense</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/2246">Brazil Amazonense</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/16.png"/></span><span class="panelList2Item2Name">Colombia</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/124">Colombia Primera A</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/293">Colombia Primera B</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/113.png"/></span><span class="panelList2Item2Name">Chile</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/286">Chile Segunda</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/438">Colombia Primera AChile Ter</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/1.png"/></span><span class="panelList2Item2Name">China</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/2">China Super League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/382">China Division 1</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/1344">China Division 2</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/98.png"/></span><span class="panelList2Item2Name">Croatia</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/451">Croatia 1.HNL</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/721">Croatia 2.HNL</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/10.png"/></span><span class="panelList2Item2Name">Czech Republic</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/134">Czech Republic Gambrinus Liga</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/633">Czech First League</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/15.png"/></span><span class="panelList2Item2Name">Denmark</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/104">Denmark Superligaen</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/247">Denmark Division 1</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/13.png"/></span><span class="panelList2Item2Name">Greece</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/105">Greece Super League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/194">Greece Football League</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/96.png"/></span><span class="panelList2Item2Name">Iceland</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/301">Iceland Premier League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/340">Iceland 1 Deild</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/2.png"/></span><span class="panelList2Item2Name">Japan</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/34">Japan J-League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/1275">Japan J2-League</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/49.png"/></span><span class="panelList2Item2Name">Mexico</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/1046">Mexico Segunda Division</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/647">Mexico Cup</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/45.png"/></span><span class="panelList2Item2Name">Mexico</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/108">Portugal Primeira Liga</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/681">Portugal Segunda Liga</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/431">Portugal Campeonato Nacional</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/185">Portugal Cup</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/12.png"/></span><span class="panelList2Item2Name">Russia</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/8">Russia Premier League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/191">Russia Division 1</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/59.png"/></span><span class="panelList2Item2Name">Serbia</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/101">Serbia Super Liga</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/480">Serbia Prva Liga</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/3.png"/></span><span class="panelList2Item2Name">South Korea</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/85">South Korea K-League Classic</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/2460">South Korea K-League 2</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/101.png"/></span><span class="panelList2Item2Name">Sweden</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/484">Sweden Elitettan</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/203">Sweden Allsvenskan</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/29.png"/></span><span class="panelList2Item2Name">Switzerland</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/106">Switzerland Super League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/1617">Switzerland 1. Liga</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/1318">Switzerland 2. Liga</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/26.png"/></span><span class="panelList2Item2Name">Turkey</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/158">Turkey Super Lig</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/778">Turkey 1 Lig</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/21.png"/></span><span class="panelList2Item2Name">Ukraine</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/309">Ukraine Persha Liga</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/634">Ukraine Vyscha Liga</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/6.png"/></span><span class="panelList2Item2Name">United States</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/252">USA - MLS</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/1296">USA - NASL</a></dd>
+<dt><span class="panelList2Item2Icon"><img src="https://s.besget.com/country/s/41.png"/></span><span class="panelList2Item2Name">Welsh</span></dt>
+<dd><a class="panelList2Item2Name" href="/league/751">Wales Premier League</a></dd>
+<dd><a class="panelList2Item2Name" href="/league/730">Wales League Division 1</a></dd>
+</dl>
+<p class="text-center MBTitle"><a href="/data">View All Leagues &gt;</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="small-9 columns">
+<div class="indexV6Title">
+<div class="row">
+<div class="small-6 columns"><h3>Live Scores</h3></div>
+<div class="small-6 columns text-right"><h3><a href="//lv.scorebing.com"><i class="fa fa-play-circle"></i> More live scores</a></h3></div>
+</div>
+</div>
+<div class="indexV6LiveTable">
+<table class="liveTable2 noHover">
+<thead>
+<tr>
+<th width="50">Time</th>
+<th colspan="3">Score</th>
+<th width="160">1X2</th>
+<th width="46">Handicap</th>
+<th width="46"><img src="/assets/images/event/hg.png" style="height: 18px;"/></th>
+<th width="46"><img src="/assets/images/event/timeline-corner-h-7.png" style="height: 18px;"/></th>
+<th width="80">Analysis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/47.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/2760">Brazil Serie D</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 04:28</span>
+</td>
+</tr>
+<tr>
+<td><span class="red-color">93'</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/38426">Pouso Alegre</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">0 : 0</span></td>
+<td class="text-left" width="190"><a href="/team/6500">Ferroviaria SP</a></td>
+<td class="BR0">2.375 / 3.000 / 2.750</td>
+<td class="BR0">0.0</td>
+<td class="BR0">2.0</td>
+<td class="BR0">10</td>
+<td><a href="/race/1009118" title="Pouso Alegre VS Ferroviaria SP"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/117.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/2859">Peru Campeonato Nacional Women</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 04:29</span>
+</td>
+</tr>
+<tr>
+<td><span class="red-color">90'</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/47377">Carlos Mannucci Women</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">3 : 0</span></td>
+<td class="text-left" width="190"><a href="/team/47348">CD Universidad San Martin Women</a></td>
+<td class="BR0">1.015 / 23.00 / 41.00</td>
+<td class="BR0">-5.25</td>
+<td class="BR0">5.75</td>
+<td class="BR0">-</td>
+<td><a href="/race/1009370" title="Carlos Mannucci Women VS CD Universidad San Martin Women"><i aria-hidden="true" class="fa fa-arrow-right orange-color f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/115.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/2618">Ecuador Cup</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 04:30</span>
+</td>
+</tr>
+<tr>
+<td><span class="red-color">87'</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/47610">Bonita Banana SC</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">1 : 1</span></td>
+<td class="text-left" width="190"><a href="/team/5826">Deportivo Cuenca</a></td>
+<td class="BR0">4.750 / 3.750 / 1.571</td>
+<td class="BR0">+0.75</td>
+<td class="BR0">2.25</td>
+<td class="BR0">8.5</td>
+<td><a href="/race/1009261" title="Bonita Banana SC VS Deportivo Cuenca"><i aria-hidden="true" class="fa fa-arrow-right orange-color f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/134.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/2843">Panama First Division Women</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 04:59</span>
+</td>
+</tr>
+<tr>
+<td><span class="red-color">62'</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/38963">SD Panama Oeste Women</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">1 : 1</span></td>
+<td class="text-left" width="190"><a href="/team/43167">CA Independiente de la Chorrera Women</a></td>
+<td class="BR0">17.00 / 9.000 / 1.083</td>
+<td class="BR0">+2.5</td>
+<td class="BR0">3.5</td>
+<td class="BR0">-</td>
+<td><a href="/race/1009393" title="SD Panama Oeste Women VS CA Independiente de la Chorrera Women"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/116.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/1017">Venezuela Segunda Division</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 04:59</span>
+</td>
+</tr>
+<tr>
+<td><span class="red-color">62'</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/29981">Libertador FC</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">2 : 0</span></td>
+<td class="text-left" width="190"><a href="/team/34714">Dynamo Puerto FC</a></td>
+<td class="BR0">1.400 / 4.000 / 6.000</td>
+<td class="BR0">-1.25</td>
+<td class="BR0">2.25</td>
+<td class="BR0">-</td>
+<td><a href="/race/1009350" title="Libertador FC VS Dynamo Puerto FC"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/116.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/1264">Venezuela Primera Division</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 05:00</span>
+</td>
+</tr>
+<tr>
+<td><span class="red-color">65'</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/1832">Deportivo La Guaira</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">1 : 1</span></td>
+<td class="text-left" width="190"><a href="/team/7461">Portuguesa FC</a></td>
+<td class="BR0">2.400 / 2.550 / 3.200</td>
+<td class="BR0">-0.25</td>
+<td class="BR0">2.0</td>
+<td class="BR0">9.5</td>
+<td><a href="/race/1008911" title="Deportivo La Guaira VS Portuguesa FC"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/115.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/2986">Ecuador Primera Women</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 05:00</span>
+</td>
+</tr>
+<tr>
+<td><span class="red-color">57'</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/43446">CD Espuce Women</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">0 : 0</span></td>
+<td class="text-left" width="190"><a href="/team/43553">Emelec Women</a></td>
+<td class="BR0">1.850 / 3.600 / 3.300</td>
+<td class="BR0">-0.5</td>
+<td class="BR0">2.75</td>
+<td class="BR0">7.5</td>
+<td><a href="/race/1009263" title="CD Espuce Women VS Emelec Women"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/47.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/2494">Brazil Campeonato Brasileiro Women</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 05:02</span>
+</td>
+</tr>
+<tr>
+<td><span class="red-color">61'</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/4262">Ferroviaria SP Women</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">0 : 0</span></td>
+<td class="text-left" width="190"><a href="/team/39994">Real Brasilia FC Women</a></td>
+<td class="BR0">1.600 / 3.600 / 4.500</td>
+<td class="BR0">-0.75</td>
+<td class="BR0">2.5</td>
+<td class="BR0">9.5</td>
+<td><a href="/race/1008947" title="Ferroviaria SP Women VS Real Brasilia FC Women"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="row MBBlock">
+<div class="small-7 columns">
+<div class="indexV6Title">
+<div class="row">
+<div class="small-12 column"><h3>Classic Matches for Today</h3></div>
+</div>
+</div>
+<div class="indexV6MatchList">
+<div class="indexV6MatchItem">
+<div class="row">
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/1961.png"/>
+<h4><a href="/team/4285">Fluminense</a></h4>
+</div>
+</div>
+<div class="small-6 columns text-center">
+<h6>Total 8</h6>
+<div class="indexV6MatchItemWDL">
+<div class="row">
+<div class="small-4 columns"><span class="indexV6MatchItemW">2 WIN</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemD">3 DRAW</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemL">3 WIN</span></div>
+</div>
+</div>
+<p class="indexV6MatchItemView"><a href="/versus/22742">View Detail &gt;</a></p>
+</div>
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/7314.png"/>
+<h4><a href="/team/1480">Atletico GO</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="indexV6MatchItem">
+<div class="row">
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/49202.png"/>
+<h4><a href="/team/4330">Cuiaba</a></h4>
+</div>
+</div>
+<div class="small-6 columns text-center">
+<h6>Total 6</h6>
+<div class="indexV6MatchItemWDL">
+<div class="row">
+<div class="small-4 columns"><span class="indexV6MatchItemW">2 WIN</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemD">2 DRAW</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemL">2 WIN</span></div>
+</div>
+</div>
+<p class="indexV6MatchItemView"><a href="/versus/27696">View Detail &gt;</a></p>
+</div>
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/1999.png"/>
+<h4><a href="/team/6299">Bragantino</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="indexV6MatchItem">
+<div class="row">
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/1977.png"/>
+<h4><a href="/team/1952">Atletico Mineiro</a></h4>
+</div>
+</div>
+<div class="small-6 columns text-center">
+<h6>Total 15</h6>
+<div class="indexV6MatchItemWDL">
+<div class="row">
+<div class="small-4 columns"><span class="indexV6MatchItemW">6 WIN</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemD">1 DRAW</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemL">8 WIN</span></div>
+</div>
+</div>
+<p class="indexV6MatchItemView"><a href="/versus/3968">View Detail &gt;</a></p>
+</div>
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/1968.png"/>
+<h4><a href="/team/4286">Santos</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="indexV6MatchItem">
+<div class="row">
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/3211.png"/>
+<h4><a href="/team/12846">River Plate</a></h4>
+</div>
+</div>
+<div class="small-6 columns text-center">
+<h6>Total 10</h6>
+<div class="indexV6MatchItemWDL">
+<div class="row">
+<div class="small-4 columns"><span class="indexV6MatchItemW">5 WIN</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemD">4 DRAW</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemL">1 WIN</span></div>
+</div>
+</div>
+<p class="indexV6MatchItemView"><a href="/versus/18246">View Detail &gt;</a></p>
+</div>
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/36833.png"/>
+<h4><a href="/team/2499">Atlético Tucumán</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="indexV6MatchItem">
+<div class="row">
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/1966.png"/>
+<h4><a href="/team/1641">Internacional RS</a></h4>
+</div>
+</div>
+<div class="small-6 columns text-center">
+<h6>Total 15</h6>
+<div class="indexV6MatchItemWDL">
+<div class="row">
+<div class="small-4 columns"><span class="indexV6MatchItemW">5 WIN</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemD">2 DRAW</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemL">8 WIN</span></div>
+</div>
+</div>
+<p class="indexV6MatchItemView"><a href="/versus/8893">View Detail &gt;</a></p>
+</div>
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/5981.png"/>
+<h4><a href="/team/1638">Flamengo</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="indexV6MatchItem">
+<div class="row">
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/3207.png"/>
+<h4><a href="/team/24074">Cologne</a></h4>
+</div>
+</div>
+<div class="small-6 columns text-center">
+<h6>Total 12</h6>
+<div class="indexV6MatchItemWDL">
+<div class="row">
+<div class="small-4 columns"><span class="indexV6MatchItemW">1 WIN</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemD">7 DRAW</span></div>
+<div class="small-4 columns"><span class="indexV6MatchItemL">4 WIN</span></div>
+</div>
+</div>
+<p class="indexV6MatchItemView"><a href="/versus/10306">View Detail &gt;</a></p>
+</div>
+<div class="small-3 columns text-center">
+<div class="indexV6MatchItemTeam">
+<img src="https://s.besget.com/team/b/3204.png"/>
+<h4><a href="/team/4272">Union Santa Fe</a></h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="small-5 columns">
+<div class="indexV6Title">
+<div class="row">
+<div class="small-8 columns"><h3>Matches by Dates</h3></div>
+<div class="small-4 columns text-right"><h3><a href="/fixtures">More &gt;</a></h3></div>
+</div>
+</div>
+<img class="v6ClickImg" src="/assets/images/index/v6Click.png"/>
+<div class="indexV6Diary">
+<a class="indexV6DiaryItem" href="/fixtures/20220611">
+<h4>Yesterday</h4>
+<h5>(Jun 11th)</h5>
+</a>
+<a class="indexV6DiaryItem" href="/fixtures/20220612">
+<h4>Today</h4>
+<h5>(Jun 12th)</h5>
+</a>
+<a class="indexV6DiaryItem" href="/fixtures/20220613">
+<h4>Tomorrow</h4>
+<h5>(Jun 13th)</h5>
+</a>
+<a class="indexV6DiaryItem" href="/fixtures/20220614">
+<h4>Tuesday</h4>
+<h5>(Jun 14th)</h5>
+</a>
+<a class="indexV6DiaryItem" href="/fixtures/20220615">
+<h4>Wednesday</h4>
+<h5>(Jun 15th)</h5>
+</a>
+<a class="indexV6DiaryItem" href="/fixtures/20220616">
+<h4>Thursday</h4>
+<h5>(Jun 16th)</h5>
+</a>
+<a class="indexV6DiaryItem" href="/fixtures/20220617">
+<h4>Friday</h4>
+<h5>(Jun 17th)</h5>
+</a>
+</div>
+</div>
+</div>
+<div class="indexV6Title">
+<div class="row">
+<div class="small-6 columns"><h3>Upcoming Matches</h3></div>
+<div class="small-6 columns text-right"><h3><a href="/fixtures"><i class="fa fa-play-circle"></i> More upcoming matches &gt;</a></h3></div>
+</div>
+</div>
+<div class="indexV6LiveTable">
+<table class="liveTable2 noHover">
+<thead>
+<tr>
+<th width="50">Time</th>
+<th colspan="3">Score</th>
+<th width="160">1X2</th>
+<th width="46">Handicap</th>
+<th width="46"><img src="/assets/images/event/hg.png" style="height: 18px;"/></th>
+<th width="46"><img src="/assets/images/event/timeline-corner-h-7.png" style="height: 18px;"/></th>
+<th width="80">Analysis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/32.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/654">Argentina Primera Division</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 07:30</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">NS</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/12846">River Plate</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">VS</span></td>
+<td class="text-left" width="190"><a href="/team/2499">Atlético Tucumán</a></td>
+<td class="BR0">1.285 / 6.000 / 9.000</td>
+<td class="BR0">-1.75</td>
+<td class="BR0">3.0</td>
+<td class="BR0">9.5</td>
+<td><a href="/race/1008201" title="River Plate VS Atlético Tucumán"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/47.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/251">Campeonato Brasileiro</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 08:00</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">NS</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/1641">Internacional RS</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">VS</span></td>
+<td class="text-left" width="190"><a href="/team/1638">Flamengo</a></td>
+<td class="BR0">3.000 / 3.200 / 2.500</td>
+<td class="BR0">-</td>
+<td class="BR0">2.25</td>
+<td class="BR0">10.5</td>
+<td><a href="/race/1008516" title="Internacional RS VS Flamengo"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/42.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/1211">Nigeria Premier League</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 15:00</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">NS</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/14408">Enyimba</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">VS</span></td>
+<td class="text-left" width="190"><a href="/team/15447">Kwara United</a></td>
+<td class="BR0">1.250 / 4.200 / 13.00</td>
+<td class="BR0">-1.25</td>
+<td class="BR0">2.25</td>
+<td class="BR0">-</td>
+<td><a href="/race/1009334" title="Enyimba VS Kwara United"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/32.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/654">Argentina Primera Division</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/13 00:00</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">NS</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/24074">Cologne</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">VS</span></td>
+<td class="text-left" width="190"><a href="/team/4272">Union Santa Fe</a></td>
+<td class="BR0">2.200 / 3.200 / 3.500</td>
+<td class="BR0">-0.25</td>
+<td class="BR0">2.0</td>
+<td class="BR0">9.5</td>
+<td><a href="/race/1008202" title="Cologne VS Union Santa Fe"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/32.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/654">Argentina Primera Division</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/13 02:30</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">NS</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/6660">Godoy Cruz</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">VS</span></td>
+<td class="text-left" width="190"><a href="/team/6836">Racing Club</a></td>
+<td class="BR0">2.750 / 3.200 / 2.625</td>
+<td class="BR0">-</td>
+<td class="BR0">2.5</td>
+<td class="BR0">10</td>
+<td><a href="/race/1008203" title="Godoy Cruz VS Racing Club"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/47.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/251">Campeonato Brasileiro</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/13 03:00</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">NS</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/1672">Sao Paulo</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">VS</span></td>
+<td class="text-left" width="190"><a href="/team/1491">America MG</a></td>
+<td class="BR0">1.700 / 3.500 / 5.750</td>
+<td class="BR0">-0.75</td>
+<td class="BR0">2.25</td>
+<td class="BR0">9.5</td>
+<td><a href="/race/1008518" title="Sao Paulo VS America MG"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/47.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/251">Campeonato Brasileiro</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/13 03:00</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">NS</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/4100">Goias</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">VS</span></td>
+<td class="text-left" width="190"><a href="/team/1455">Ceara</a></td>
+<td class="BR0">2.875 / 3.000 / 2.750</td>
+<td class="BR0">-</td>
+<td class="BR0">2.0</td>
+<td class="BR0">10.5</td>
+<td><a href="/race/1008517" title="Goias VS Ceara"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/47.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/251">Campeonato Brasileiro</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/13 05:00</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">NS</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/6347">Coritiba</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">VS</span></td>
+<td class="text-left" width="190"><a href="/team/4275">Palmeiras</a></td>
+<td class="BR0">4.750 / 3.600 / 1.800</td>
+<td class="BR0">+0.5</td>
+<td class="BR0">2.25</td>
+<td class="BR0">10.5</td>
+<td><a href="/race/1008519" title="Coritiba VS Palmeiras"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="indexV6Title">
+<div class="row">
+<div class="small-6 columns"><h3>Finished matches</h3></div>
+<div class="small-6 columns text-right"><h3><a href="/fixtures/last"><i class="fa fa-play-circle"></i> More finished matches &gt;</a></h3></div>
+</div>
+</div>
+<div class="indexV6LiveTable">
+<table class="liveTable2 noHover">
+<thead>
+<tr>
+<th width="50">Time</th>
+<th colspan="3">Score</th>
+<th width="160">1X2</th>
+<th width="46">Handicap</th>
+<th width="46"><img src="/assets/images/event/hg.png" style="height: 18px;"/></th>
+<th width="46"><img src="/assets/images/event/timeline-corner-h-7.png" style="height: 18px;"/></th>
+<th width="80">Analysis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/47.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/251">Campeonato Brasileiro</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 03:31</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">FT</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/6296">Corinthians</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">2 : 0</span></td>
+<td class="text-left" width="190"><a href="/team/2608">EC Juventude</a></td>
+<td class="BR0">1.750 / 3.250 / 5.250</td>
+<td class="BR0">-0.75</td>
+<td class="BR0">2.0</td>
+<td class="BR0">10</td>
+<td><a href="/race/1008512" title="Corinthians VS EC Juventude"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/32.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/654">Argentina Primera Division</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 02:31</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">FT</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/6910">CA Tigre</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">1 : 1</span></td>
+<td class="text-left" width="190"><a href="/team/3445">Barracas Central</a></td>
+<td class="BR0">1.500 / 4.000 / 6.500</td>
+<td class="BR0">-1.0</td>
+<td class="BR0">2.5</td>
+<td class="BR0">9.5</td>
+<td><a href="/race/1008199" title="CA Tigre VS Barracas Central"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/32.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/654">Argentina Primera Division</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 02:30</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">FT</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/6688">Arsenal de Sarandi</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">0 : 0</span></td>
+<td class="text-left" width="190"><a href="/team/4095">Banfield</a></td>
+<td class="BR0">2.800 / 2.900 / 2.800</td>
+<td class="BR0">0.0</td>
+<td class="BR0">2.0</td>
+<td class="BR0">10</td>
+<td><a href="/race/1008198" title="Arsenal de Sarandi VS Banfield"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/54.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/783">Cameroon Elite One</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/12 01:06</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">FT</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/38528">Fauve Azur Elite</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">1 : 1</span></td>
+<td class="text-left" width="190"><a href="/team/15009">Les Astres FC De Douala</a></td>
+<td class="BR0">2.600 / 3.000 / 2.600</td>
+<td class="BR0">0.0</td>
+<td class="BR0">2.25</td>
+<td class="BR0">-</td>
+<td><a href="/race/1009413" title="Fauve Azur Elite VS Les Astres FC De Douala"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/54.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/783">Cameroon Elite One</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/11 22:40</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">FT</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/19752">UMS de Loum</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">1 : 1</span></td>
+<td class="text-left" width="190"><a href="/team/25258">Avion Academy</a></td>
+<td class="BR0">2.100 / 2.750 / 3.600</td>
+<td class="BR0">-0.25</td>
+<td class="BR0">1.75</td>
+<td class="BR0">-</td>
+<td><a href="/race/1009241" title="UMS de Loum VS Avion Academy"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/32.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/654">Argentina Primera Division</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/11 08:34</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">FT</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/2502">CA Independiente</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">1 : 0</span></td>
+<td class="text-left" width="190"><a href="/team/46766">CA Talleres de Córdoba</a></td>
+<td class="BR0">2.150 / 3.100 / 3.800</td>
+<td class="BR0">-0.25</td>
+<td class="BR0">2.0</td>
+<td class="BR0">10</td>
+<td><a href="/race/1008196" title="CA Independiente VS CA Talleres de Córdoba"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/32.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/654">Argentina Primera Division</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/11 08:31</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">FT</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/4271">Huracan</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">2 : 0</span></td>
+<td class="text-left" width="190"><a href="/team/6829">Rosario Central</a></td>
+<td class="BR0">2.000 / 3.300 / 4.000</td>
+<td class="BR0">-0.5</td>
+<td class="BR0">2.25</td>
+<td class="BR0">10</td>
+<td><a href="/race/1008197" title="Huracan VS Rosario Central"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+<tr class="liveTable2LeagueTr">
+<td colspan="9">
+<img class="liveTable2LeagueTrImg" src="https://s.besget.com/country/s/32.png"/>
+<span class="liveTable2LeagueTrName"><a href="/league/654">Argentina Primera Division</a></span>
+<span class="liveTable2LeagueTrTime">2022/06/11 06:01</span>
+</td>
+</tr>
+<tr>
+<td><span class="aluminum-color">FT</span></td>
+<td class="BR0 text-right" width="190"><a href="/team/6395">Lanus</a></td>
+<td class="BR0"><span class="liveTable2LeaguePoint">1 : 1</span></td>
+<td class="text-left" width="190"><a href="/team/2503">Defensa y Justicia</a></td>
+<td class="BR0">3.250 / 3.100 / 2.375</td>
+<td class="BR0">+0.25</td>
+<td class="BR0">2.25</td>
+<td class="BR0">9.5</td>
+<td><a href="/race/1008195" title="Lanus VS Defensa y Justicia"><i aria-hidden="true" class="fa fa-arrow-right f16"></i></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="main-footer enFooter">
+<div class="row">
+<div class="small-3 columns">
+<div class="sbFooterItem">
+<h5>SCOREBING <img src="/assets/images/scoreBingTM.png" style="height: 40px; vertical-align: middle;"/></h5>
+<p>As the Best Football APP, ScoreBing offers Predictions, Statistics, Live Scores, Results and Tips for all leagues and cups such as World Cup, Premier League, Serie A and Bundesliga.</p>
+</div>
+</div>
+<div class="small-3 columns">
+<div class="sbFooterItem">
+<h5>SERVICES</h5>
+<ul>
+<li><a href="//www.scorebing.com/about-us" rel="nofollow">About Us</a></li>
+<li><a href="//www.scorebing.com/contact" rel="nofollow">Feedback</a></li>
+<li><a href="//www.scorebing.com/privacy" rel="nofollow">Privacy</a></li>
+<li><a href="//www.scorebing.com/terms" rel="nofollow">Terms of Use</a></li>
+<li><a href="mailto:bd@scorebing.com" rel="nofollow">Advertise</a></li>
+</ul>
+</div>
+</div>
+<div class="small-3 columns">
+<div class="sbFooterItem">
+<h5>PARTNERS</h5>
+<ul>
+<li><a href="https://completesports.com">Complete sports</a></li>
+<li><a href="https://www.soccer.com">Soccer</a></li>
+<li><a href="https://www.espn.com">Espn</a></li>
+<li><a href="https://www.foxsports.com">Fox Sports</a></li>
+<li><a href="https://www.eurosport.com">Euro Sport</a></li>
+</ul>
+</div>
+</div>
+<div class="small-3 columns">
+<div class="sbFooterItem">
+<h5>GET THE APP</h5>
+<p><a class="inlineBlock MRBlock VM" href="//www.scorebing.com/test_download"><img src="/assets/images/iconStore.png" style="height:40px; width:auto;"/></a> <a class="inlineBlock VM" href="https://play.google.com/store/apps/details?id=com.besget.soccerbing"><img src="/assets/images/iconAndroid.png" style="height:40px; width:auto;"/></a></p>
+<h5>Follow us</h5>
+<p>
+<a href="https://www.facebook.com/scorebing" title="Facebook"><img alt="Facebook" src="/assets/images/icons/socialFb.png" width="20"/></a>  <a href="https://twitter.com/scorebing" title="Twitter"><img alt="Twitter" src="/assets/images/icons/socialTw.png" width="20"/></a>  <a href="https://www.instagram.com/scorebing" title="Instagram"><img alt="Instagram" src="/assets/images/icons/socialIn.png" width="20"/></a>  <a href="https://plus.google.com/106525472663097347349" title="Google+"><img alt="Google+" src="/assets/images/icons/socialGo.png" width="20"/></a>
+</p>
+</div>
+</div>
+</div>
+</footer>
+<p class="MBTitle text-center aluminum-color MB0">All statistics, data, odds and predictions are just for your reference. We do not guarantee the exactness of these numbers and will not be responsible for any loss if you take advantage of them.<br/>Copyright © 2015 - 2022 ScoreBing.com. All rights reserved.</p><br/>
+</div>
+<script>
+$(document).ready(function() {
+     $('.topBarAccountLink').on('click', function(){
+                  $('#acountDrop').toggle();
+   });
+   $('.topBarAccount').hover(
+                 function () {
+                     $('#acountDropEn').show();
+                 },
+                 function () {
+                     $('#acountDropEn').hide();
+                 }
+             );
+   $('.fa-search').on('click', function(e) {
+      var text = $('.searchField').val();
+      if(text.length<=0)return;
+      jQuery("#data_search").submit();
+    });
+  $(document).mouseup(function(e){
+    var _con = $('#acountDrop');
+    if(!_con.is(e.target) && _con.has(e.target).length === 0 && !$('.topBarAccount').is(e.target) && $('.topBarAccount').has(e.target).length === 0){
+      $('#acountDrop').hide();
+    }
+  });
+
+            $('.iamNotAdClose').on('click', function(e){
+            e.preventDefault();
+            if(confirm('VIP can close the advertisement')){
+                window.location="https://www.scorebing.com/vip";
+            }
+        });
+    
+    
+});
+</script>
+<script src="/assets/js/app.min.js?_=13"></script>
+<script src="/assets/js/moment/moment.min.js"></script>
+<script src="/assets/js/moment-timezone/moment-timezone-with-data.min.js"></script>
+<script src="/assets/js/tz.js?_=11"></script>
+<script data-cfasync="false" id="clever-core" type="text/javascript">
+        (function (document, window) {
+            var a, c = document.createElement("script");
+
+            c.id = "CleverCoreLoader42426";
+            c.src = "//scripts.cleverwebserver.com/7a0c35c6874df37d89972c5ec84856e3.js";
+
+            c.async = !0;
+            c.type = "text/javascript";
+            c.setAttribute("data-target", window.name);
+            c.setAttribute("data-callback", "put-your-callback-macro-here");
+
+            try {
+                a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+            } catch (e) {
+                a = !1;
+            }
+
+            a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+            a.parentNode.insertBefore(c, a);
+        })(document, window);
+    </script>
+<ins class="adsbygoogle adsbygoogle-noablate" data-ad-status="unfilled" data-adsbygoogle-status="done" style="display: none !important;"><ins aria-label="Advertisement" id="aswift_0_expand" style="border: medium none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-table;" tabindex="0" title="Advertisement"><ins id="aswift_0_anchor" style="border: medium none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: block;"><iframe allowtransparency="true" data-google-container-id="a!1" data-load-complete="true" frameborder="0" hspace="0" id="aswift_0" marginheight="0" marginwidth="0" name="aswift_0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4947910428207445&amp;output=html&amp;adk=1812271804&amp;adf=3025194257&amp;lmt=1654986175&amp;plat=9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32&amp;format=0x0&amp;url=https%3A%2F%2Fwww.scorebing.com%2F&amp;ea=0&amp;pra=5&amp;wgl=1&amp;dt=1654986174971&amp;bpp=1&amp;bdt=1363&amp;idt=432&amp;shv=r20220608&amp;mjsv=m202206080101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3De67eb795475c0845-2209bbed587c002a%3AT%3D1654986175%3ART%3D1654986175%3AS%3DALNI_MYIfsMM7hOf3Cnr2jAHRI_xpwI66g&amp;gpic=UID%3D000006afd0a2f298%3AT%3D1654986175%3ART%3D1654986175%3AS%3DALNI_MbZOxuLQmNWd8H9fx6UtE5nMKcXPA&amp;nras=1&amp;correlator=1861898582757&amp;frm=20&amp;pv=2&amp;ga_vid=1978198437.1654986175&amp;ga_sid=1654986176&amp;ga_hid=2106153487&amp;ga_fc=1&amp;u_tz=-180&amp;u_his=1&amp;u_h=1440&amp;u_w=2560&amp;u_ah=1413&amp;u_aw=2488&amp;u_cd=24&amp;u_sd=2&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1268&amp;bih=955&amp;scr_x=0&amp;scr_y=0&amp;eid=44759875%2C44759926%2C44759837%2C31067971%2C31064019&amp;oid=2&amp;pvsid=534655803691996&amp;tmod=1447844927&amp;nvt=1&amp;eae=2&amp;fc=1920&amp;brdim=791%2C112%2C791%2C112%2C2488%2C27%2C1280%2C1040%2C1280%2C955&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=32768&amp;bc=31&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=989" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;" vspace="0"></iframe></ins></ins></ins></body><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20220608/r20190131/zrt_lookup.html" style="display: none;"></iframe></html>
